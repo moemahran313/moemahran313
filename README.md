@@ -35,7 +35,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## Muhammad Mahran
+## Mahran
 
 **Engineer. Builder. Independent researcher.**
 
