@@ -1,472 +1,504 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                         MUHAMMAD MAHRAN                                -->
-
-<!--                    PERSONAL GITHUB README                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ╭─────────────────────────────────────────────────────────────────────╮ -->
-
-<!-- │                            HERO                                     │ -->
-
-<!-- ╰─────────────────────────────────────────────────────────────────────╯ -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=MUHAMMAD%20MAHRAN&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Engineer%20%7C%20Builder%20%7C%20Researcher%20%7C%20Systems%20Thinker&descAlignY=58&descSize=17&color=0:09090b,50:18181b,100:27272a"
-width="100%"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D10&height=220&section=header&text=MUHAMMAD%20MAHRAN&fontSize=46&fontColor=F5F5F5&fontAlignY=43&animation=fadeIn&desc=ENGINEERING%20%2F%20SOFTWARE%20%2F%20AI%20%2F%20MATHEMATICS&descSize=14&descAlignY=62&descColor=A1A1AA"/>
 
 <br>
 
-<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2600&pause=700&color=A1A1AA&center=true&vCenter=true&width=780&height=35&lines=BUILDING+SYSTEMS%2C+NOT+JUST+APPS.;ENGINEERING+AT+THE+INTERSECTION+OF+IDEAS.;SOFTWARE+%C2%B7+ARTIFICIAL+INTELLIGENCE+%C2%B7+MATHEMATICS;TURNING+ABSTRACT+PROBLEMS+INTO+WORKING+SYSTEMS.;ALWAYS+LEARNING.+ALWAYS+BUILDING." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ENGINEERING-0B0D10?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-0B0D10?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEMS-0B0D10?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATHEMATICS-0B0D10?style=flat-square&logoColor=white"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/moemahran/">
+<img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD%20MAHRAN-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=01%20%E2%80%94%20IDENTITY&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## Muhammad Mahran
+
+**Engineer. Builder. Independent researcher.**
+
+I'm an Electrical / Electronics Engineering student interested in the
+intersection of:
+
+`COMPUTING` · `AI` · `MATHEMATICS` · `ENGINEERING`
+
+I build software, investigate mathematical problems, experiment with
+AI systems, and explore how ideas from completely different disciplines
+can become useful engineering systems.
+
+<br>
+
+**Current direction**
+
+> Build less software that merely exists.
+> Build more software that changes what is possible.
+
+</td>
+
+<td width="45%" valign="top">
+
+```text
+┌──────────────────────────────┐
+│        SYSTEM STATUS         │
+├──────────────────────────────┤
+│                              │
+│  ENGINEERING       ACTIVE    │
+│  SOFTWARE          ACTIVE    │
+│  ARTIFICIAL AI     ACTIVE    │
+│  MATHEMATICS       ACTIVE    │
+│  RESEARCH          ACTIVE    │
+│                              │
+│  STATUS: BUILDING            │
+│                              │
+└──────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=4000&pause=1000&color=52525B&center=true&vCenter=true&width=700&lines=%2F%2F+There+is+always+another+layer+to+understand.;%2F%2F+The+interface+is+never+the+whole+system.;%2F%2F+Curiosity+is+an+engineering+tool." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=02%20%E2%80%94%20THE%20LAB&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+```text
+                              ┌─────────────┐
+                              │   IDEAS     │
+                              └──────┬──────┘
+                                     │
+                         ┌───────────▼───────────┐
+                         │       RESEARCH        │
+                         └───────────┬───────────┘
+                                     │
+                ┌────────────────────┼────────────────────┐
+                │                    │                    │
+          ┌─────▼─────┐        ┌─────▼─────┐        ┌─────▼─────┐
+          │ MATHEMATICS│        │ SOFTWARE  │        │ ENGINEERING│
+          └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
+                │                    │                    │
+                └────────────────────┼────────────────────┘
+                                     │
+                              ┌──────▼──────┐
+                              │     AI      │
+                              └──────┬──────┘
+                                     │
+                              ┌──────▼──────┐
+                              │ REAL WORLD  │
+                              │   SYSTEMS   │
+                              └─────────────┘
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=300&color=71717A&center=true&vCenter=true&width=650&lines=%5B+RESEARCH+%5D+%E2%86%92+%5B+BUILD+%5D+%E2%86%92+%5B+BREAK+%5D+%E2%86%92+%5B+UNDERSTAND+%5D+%E2%86%92+%5B+REBUILD+%5D" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=03%20%E2%80%94%20CURRENT%20SYSTEMS&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `MADARIJ OS`
+
+**Arabic-first business infrastructure**
+
+An ambitious attempt to rethink business software for the Arabic-speaking
+market.
+
+```text
+ACCOUNTING
+INVOICING
+VAT / ZATCA
+PAYROLL
+CRM
+INVENTORY
+CONTRACTS
+REPORTING
+AI
+```
+
+`AI` `SAAS` `ERP` `GCC`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `IBER ACADEMY`
+
+**Language learning infrastructure**
+
+A structured language-learning environment focused on progression rather
+than isolated vocabulary.
+
+```text
+LESSONS
+VOCABULARY
+GRAMMAR
+EXERCISES
+SPACED REPETITION
+MASTERY
+```
+
+`EDTECH` `LANGUAGES` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `ODRUS — ادرس`
+
+**Language education for Arabic speakers**
+
+A broader language-learning concept spanning alphabet, phonetics,
+grammar, writing, comprehension and advanced learning.
+
+`ARABIC` `EDTECH` `NLP`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `ABJADCODE`
+
+**Programming infrastructure for Arabic**
+
+Exploring what programming education and developer tooling could look
+like when designed around Arabic-first learners.
+
+`CS` `ARABIC` `EDUCATION`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2500&pause=500&color=71717A&center=true&vCenter=true&width=650&lines=SCANNING+PROJECT+SPACE...;4+PRIMARY+SYSTEMS+DETECTED.;ADDITIONAL+EXPERIMENTS+IN+PROGRESS...;NO+PROJECT+IS+EVER+REALLY+FINISHED." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=04%20%E2%80%94%20TECHNOLOGY&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,javascript,typescript,php,matlab,html,css,sql&perline=6"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,wordpress,tailwind,postgres,mysql,supabase,docker,git,github&perline=6"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center"><b>LANGUAGES</b><br><br>17+</td>
+<td align="center"><b>FRAMEWORKS</b><br><br>8+</td>
+<td align="center"><b>DATABASES</b><br><br>SQL / PostgreSQL</td>
+<td align="center"><b>INFRASTRUCTURE</b><br><br>Cloud / Git / Docker</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=400&color=71717A&center=true&vCenter=true&width=700&lines=C%2B%2B+%E2%80%A2+PYTHON+%E2%80%A2+JAVASCRIPT+%E2%80%A2+TYPESCRIPT+%E2%80%A2+PHP;REACT+%E2%80%A2+NEXT.JS+%E2%80%A2+NODE.JS+%E2%80%A2+LARAVEL;POSTGRESQL+%E2%80%A2+SUPABASE+%E2%80%A2+DOCKER+%E2%80%A2+VERCEL+%E2%80%A2+GIT;MATLAB+%E2%80%A2+C%23+%E2%80%A2+JAVA+%E2%80%A2+SQL+%E2%80%A2+HTML+%E2%80%A2+CSS" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=05%20%E2%80%94%20AI%20WORKFLOW&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+```text
+          ┌──────────┐
+          │   IDEA   │
+          └────┬─────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   QUESTION   │
+        └──────┬───────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │  FIRST PRINCIPLE│
+      │    ANALYSIS     │
+      └────────┬────────┘
+               │
+               ▼
+       ┌───────────────┐
+       │ AI + HUMAN    │
+       │ COLLABORATION │
+       └───────┬───────┘
+               │
+               ▼
+        ┌────────────┐
+        │ PROTOTYPE  │
+        └──────┬─────┘
+               │
+               ▼
+        ┌────────────┐
+        │   ATTACK   │
+        └──────┬─────┘
+               │
+               ▼
+        ┌────────────┐
+        │   SHIP     │
+        └────────────┘
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+`GOOGLE AI STUDIO` · `CLAUDE` · `OPENAI` · `ANTIGRAVITY`
+· `SUPABASE` · `VERCEL` · `GIT`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=06%20%E2%80%94%20RESEARCH&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+### Mathematics
+
+My mathematical interests extend beyond coursework into independent
+problem solving and experimentation.
+
+```text
+NUMBER THEORY
+     │
+     ├── CONGRUENCES
+     ├── PARAMETRIC FAMILIES
+     ├── DIOPHANTINE EQUATIONS
+     ├── COMPUTATIONAL EXPERIMENTATION
+     └── STRUCTURAL PROOFS
+```
+
+One recurring direction is the search for **structure behind computational
+patterns**, rather than treating computation as a substitute for proof.
+
+### Broader intellectual interests
+
+`Mathematics` · `Physics` · `Computer Science` · `Economics`
+· `Artificial Intelligence` · `Engineering` · `Logic` · `Languages`
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=71717A&center=true&vCenter=true&width=700&lines=LEARNING+IS+NOT+A+CHECKLIST.;EVERY+ANSWER+CREATES+A+BETTER+QUESTION." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=07%20%E2%80%94%20ENGINEERING%20MINDSET&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+
+### 01
+
+**QUESTION**
+
+Challenge the assumption.
+
+</td>
+
+<td align="center" width="20%">
+
+### 02
+
+**UNDERSTAND**
+
+Find the underlying system.
+
+</td>
+
+<td align="center" width="20%">
+
+### 03
+
+**BUILD**
+
+Turn the idea into reality.
+
+</td>
+
+<td align="center" width="20%">
+
+### 04
+
+**BREAK**
+
+Find what doesn't work.
+
+</td>
+
+<td align="center" width="20%">
+
+### 05
+
+**REBUILD**
+
+Make the system better.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```python
+while alive:
+
+    question = find_something_interesting()
+
+    study(question)
+
+    build(question)
+
+    test(question)
+
+    if wrong:
+        learn()
+
+    repeat()
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=08%20%E2%80%94%20ACTIVITY&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+<br><br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E4E4E7&center=true&vCenter=true&width=850&lines=I+build+software+that+should+not+exist+yet.;Engineering+%2B+AI+%2B+Mathematics.;Turning+ideas+into+systems.;Building+for+the+MENA+%26+GCC.;Learning+across+disciplines.;%22The+important+thing+is+to+never+stop+questioning.%22"
-  alt="Typing animation"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4F4F5&text_color=A1A1AA&icon_color=F4F4F5&include_all_commits=true&count_private=true"
 />
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=F4F4F5&fire=FFFFFF&currStreakLabel=F4F4F5&sideLabels=A1A1AA&dates=52525B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=A1A1AA&line=71717A&point=F4F4F5&area=true&hide_border=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=09%20%E2%80%94%20CONNECT&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/moemahran/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0D10?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0D10"/>
+</a>
+
+  
+
+<a href="https://buspreneur.substack.com/">
+<img src="https://img.shields.io/badge/BUSPreneUR-0B0D10?style=for-the-badge&logo=substack&logoColor=FFFFFF&labelColor=0B0D10"/>
+</a>
+
+  
+
+<a href="https://iberacademy.vercel.app/">
+<img src="https://img.shields.io/badge/IBER%20ACADEMY-0B0D10?style=for-the-badge&logoColor=FFFFFF&labelColor=0B0D10"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=18181b&style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&label=FOLLOWERS&color=18181b" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&label=STARS&color=18181b" />
-</a>
-
-</div>
+### **I'm interested in difficult problems, unusual ideas, and ambitious systems.**
 
 <br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=900&color=71717A&center=true&vCenter=true&width=650&lines=OPEN+TO+INTERESTING+COLLABORATIONS.;BUILD+SOMETHING+WORTH+REMEMBERING.;THE+NEXT+SYSTEM+STARTS+WITH+AN+IDEA." />
 
-<div align="center">
+<br><br>
 
-### `ENGINEERING THE IMPOSSIBLE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:27272A,50:18181B,100:09090B"/>
 
-**Electrical Engineering student · Software engineer · AI builder · Independent learner**
-
-I like building things at the intersection of **software, artificial intelligence, mathematics, language, and real-world systems.**
+<sub>© Muhammad Mahran · Engineering ideas into systems.</sub>
 
 </div>
-
-<br>
-
----
-
-# `01` — WHO AM I?
-
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  Muhammad Mahran                                                       │
-│  ─────────────────────────────────────────────────────────────────────  │
-│                                                                         │
-│  Electrical / Electronics Engineering                                  │
-│  Software Engineering • AI • Mathematics • Systems                     │
-│                                                                         │
-│  Based in Egypt                                                        │
-│  Building for the world                                                │
-│                                                                         │
-│  Currently → learning, building, researching                           │
-│  Philosophy → understand first principles → build from them            │
-│  Obsession → turning complicated processes into elegant systems         │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-I'm an engineering student who spends an unreasonable amount of time
-thinking about **software, AI, mathematics, languages, and how complex
-systems can be simplified.**
-
-I don't particularly enjoy building another clone of something that
-already exists.
-
-I would rather ask:
-
-> **"Why does this have to work this way?"**
-
-…and then build something different.
-
----
-
-# `02` — WHAT I BUILD
-
-<div align="center">
-
-|       Domain       | What I'm interested in                                   |
-| :----------------: | :------------------------------------------------------- |
-|      🧠 **AI**     | AI systems, agents, automation, AI-native software       |
-| ⚙️ **Engineering** | Electronics, sensors, systems, simulation                |
-|   💻 **Software**  | Full-stack applications, APIs, internal platforms        |
-| 📐 **Mathematics** | Number theory, foundations, mathematical problem solving |
-|  🌍 **MENA Tech**  | Arabic-first software and GCC business infrastructure    |
-|  🗣️ **Language**  | Language-learning systems, NLP and localization          |
-|   🔬 **Research**  | Independent technical exploration                        |
-|   🚀 **Startups**  | Turning technical ideas into usable products             |
-
-</div>
-
----
-
-# `03` — CURRENTLY BUILDING
-
-### 🏗️ Madarij OS
-
-> **An Arabic-first operating system for business.**
-
-Aiming beyond a simple dashboard or CRUD application.
-
-```text
-Accounting
-    ↓
-Invoices ─── VAT / ZATCA
-    ↓
-Payroll ─── Contracts ─── Compliance
-    ↓
-Inventory ─── CRM ─── Reports
-    ↓
-WhatsApp ─── Telegram ─── Logistics
-    ↓
-                 AI
-```
-
-**Vision:** build infrastructure that makes running a business dramatically
-simpler for Arabic-speaking companies.
-
----
-
-### 🗣️ Iber Academy
-
-A language-learning platform built around structured learning rather than
-just vocabulary flashcards.
-
-**Current direction**
-
-`A1 → A2 → vocabulary → grammar → exercises → spaced repetition → mastery`
-
----
-
-### 🔤 Odrus — ادرس
-
-An Arabic-first language-learning concept designed to take learners from
-the alphabet and basic phrases toward advanced comprehension.
-
----
-
-### 🧮 Mathematics
-
-Independent exploration of mathematical problems, particularly
-**number theory, congruences, parametrization and computational
-experimentation.**
-
-Current interests include the **Erdős–Straus conjecture** and methods for
-finding structure rather than simply performing brute-force computation.
-
----
-
-# `04` — MY STACK
-
-## Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,js,ts,php,matlab,html,css,sql&perline=6" />
-
-</div>
-
-<br>
-
-## Frameworks & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,wordpress,tailwind&perline=6" />
-
-</div>
-
-<br>
-
-## Infrastructure & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,supabase,postgres,mysql,figma,xd,vscode&perline=7" />
-
-</div>
-
-<br>
-
-### `17+` languages, frameworks & technologies
-
-```text
-C++          C             C#
-Python       Java          JavaScript
-TypeScript   PHP           MATLAB
-HTML         CSS           SQL
-Laravel      React         Next.js
-Node.js      WordPress
-```
-
-And the stack keeps expanding.
-
----
-
-# `05` — AI / BUILDING TOOLKIT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</div>
-
-```text
-IDEA
- │
- ├── Research
- │
- ├── Prototype
- │
- ├── AI-assisted engineering
- │
- ├── Architecture
- │
- ├── Implementation
- │
- ├── Deployment
- │
- └── Iterate
-```
-
-I use AI as an **engineering multiplier**, not as a replacement for
-understanding what I'm building.
-
----
-
-# `06` — SELECTED PROJECTS
-
-<div align="center">
-
-### 🚀 Projects worth exploring
-
-</div>
-
-| Project                 | Description                                        | Focus                 |
-| ----------------------- | -------------------------------------------------- | --------------------- |
-| **Madarij OS**          | Arabic-first business operating system             | AI · SaaS · ERP       |
-| **Iber Academy**        | Structured language-learning platform              | EdTech · NLP          |
-| **Odrus / ادرس**        | Arabic-first language education                    | Education · Languages |
-| **AbjadCode**           | Arabic programming education / reference ecosystem | Programming · Arabic  |
-| **Qanouni AI**          | AI-oriented legal technology concept               | AI · LegalTech        |
-| **Lesan AI**            | Arabic language / AI concept                       | NLP · Arabic          |
-| **CypAI**               | AI / cybersecurity-oriented exploration            | AI · Security         |
-| **ProofGlory**          | Technical experimentation                          | Software              |
-| **MENA Colleges API**   | Structured educational data                        | APIs · Data           |
-| **Egyptian Cities API** | Geographic data infrastructure                     | APIs · Data           |
-
-> Some projects are experiments, some are products, and some are research.
-> Not everything needs to become a startup.
-
----
-
-# `07` — THE WAY I THINK
-
-```python
-def build(idea):
-
-    question = challenge_assumptions(idea)
-
-    fundamentals = understand_first_principles(question)
-
-    prototype = build_small(fundamentals)
-
-    test = attack_the_prototype(prototype)
-
-    while test.has_weaknesses:
-        improve(prototype)
-        test = attack_again(prototype)
-
-    return ship(prototype)
-```
-
-### Principles
-
-**01 — First principles**
-
-Understand the underlying system before memorizing its surface.
-
-**02 — Build**
-
-Ideas become useful when they become executable.
-
-**03 — Question**
-
-A widely accepted approach is not automatically a good approach.
-
-**04 — Learn broadly**
-
-Computer science doesn't exist in isolation.
-
-Mathematics → engineering → economics → language → AI → systems.
-
-**05 — Iterate aggressively**
-
-The first implementation is supposed to be wrong.
-
----
-
-# `08` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=E4E4E7&text_color=A1A1AA&icon_color=E4E4E7&include_all_commits=true&count_private=true"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=E4E4E7&text_color=A1A1AA&langs_count=10"
-height="180"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=E4E4E7&fire=FFFFFF&currStreakLabel=E4E4E7&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF"
-width="70%"
-/>
-
-</div>
-
----
-
-# `09` — CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-alt="GitHub contribution snake"
-/>
-
-</div>
-
----
-
-# `10` — BEYOND CODE
-
-I don't want my GitHub to be just a list of technologies.
-
-I'm interested in **ideas**.
-
-```text
-MATHEMATICS
-     │
-     ├──────────────┐
-     ↓              ↓
-ENGINEERING      COMPUTER SCIENCE
-     │              │
-     └──────┬───────┘
-            ↓
-        ARTIFICIAL
-       INTELLIGENCE
-            │
-            ↓
-       REAL SYSTEMS
-            │
-            ↓
-       HUMAN PROBLEMS
-```
-
-### Areas I continuously explore
-
-`Number Theory` · `Physics` · `Economics` · `AI` · `Computer Science`
-· `Electrical Engineering` · `Languages` · `Logic` · `Systems`
-· `Entrepreneurship`
-
----
-
-# `11` — WHAT I'M LEARNING
-
-<div align="center">
-
-```text
-████████████████████████████████████████████████  Mathematics
-██████████████████████████████████████████░░░░░░  Computer Science
-████████████████████████████████████████░░░░░░░░  Artificial Intelligence
-███████████████████████████████████░░░░░░░░░░░░░  Engineering
-████████████████████████████████░░░░░░░░░░░░░░░░  Systems Design
-██████████████████████████░░░░░░░░░░░░░░░░░░░░░░  Languages
-```
-
-</div>
-
-> Progress bars are intentionally not percentages.
-> There is no final level.
-
----
-
-# `12` — FIND ME
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/moemahran/">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://buspreneur.substack.com/">
-<img src="https://img.shields.io/badge/Substack-18181B?style=for-the-badge&logo=substack&logoColor=white"/>
-</a>
-
-<a href="https://iberacademy.vercel.app/">
-<img src="https://img.shields.io/badge/Iber%20Academy-18181B?style=for-the-badge"/>
-</a>
-
-<a href="https://iberio.vercel.app/">
-<img src="https://img.shields.io/badge/Iberio-18181B?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `BUILD → BREAK → UNDERSTAND → REBUILD`
-
-<br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:27272a,50:18181b,100:09090b"
-width="100%"
-/>
-
-<sub>
-Designed, engineered and continuously rewritten by Muhammad Mahran.
-</sub>
-
-</div>
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              EOF                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
