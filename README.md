@@ -1,219 +1,81 @@
 <div align="center">
 
-<br><br>
-
-<img src="./art/wordmark.svg" width="900" alt="MUHAMMAD MAHRAN">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D10&height=220&section=header&text=MUHAMMAD%20MAHRAN&fontSize=46&fontColor=F5F5F5&fontAlignY=43&animation=fadeIn&desc=ENGINEERING%20%2F%20SOFTWARE%20%2F%20AI%20%2F%20MATHEMATICS&descSize=14&descAlignY=62&descColor=A1A1AA"/>
 
 <br>
 
-<img src="./art/hero.gif" width="900" alt="Generative mathematical research visualization">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2600&pause=700&color=A1A1AA&center=true&vCenter=true&width=780&height=35&lines=BUILDING+SYSTEMS%2C+NOT+JUST+APPS.;ENGINEERING+AT+THE+INTERSECTION+OF+IDEAS.;SOFTWARE+%C2%B7+ARTIFICIAL+INTELLIGENCE+%C2%B7+MATHEMATICS;TURNING+ABSTRACT+PROBLEMS+INTO+WORKING+SYSTEMS.;ALWAYS+LEARNING.+ALWAYS+BUILDING." />
 
 <br><br>
 
-<img src="./art/status.svg" width="900" alt="Research status">
+<img src="https://img.shields.io/badge/ENGINEERING-0B0D10?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-0B0D10?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEMS-0B0D10?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATHEMATICS-0B0D10?style=flat-square&logoColor=white"/>
 
 <br><br>
 
-[ **LINKEDIN** ](https://www.linkedin.com/in/moemahran/)    
-[ **ZENODO / RESEARCH** ](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mahran%2C%20Muhammad%22)
-
-<br><br>
+<a href="https://www.linkedin.com/in/moemahran/">
+<img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD%20MAHRAN-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<img src="./art/section-01.svg" width="900">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=01%20%E2%80%94%20IDENTITY&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
 
 </div>
-
-<br>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-# RESEARCH
+## Muhammad Mahran
 
-### **MATHEMATICAL STRUCTURE**
+**Engineer. Builder. Independent researcher.**
 
-### **COMPUTATIONAL EXPERIMENT**
+I'm an Electrical / Electronics Engineering student interested in the
+intersection of:
 
-### **CRYPTOGRAPHIC SECURITY**
+`COMPUTING` · `AI` · `MATHEMATICS` · `ENGINEERING`
+
+I build software, investigate mathematical problems, experiment with
+AI systems, and explore how ideas from completely different disciplines
+can become useful engineering systems.
 
 <br>
 
-I work on a deliberately small set of problems where mathematical
-structure can be exposed, formalized, computed, and tested.
+**Current direction**
 
-<br>
-
-**Current research**
-
-`NUMBER THEORY`
-`LATTICE CRYPTOGRAPHY`
-`COMPUTATIONAL MATHEMATICS`
+> Build less software that merely exists.
+> Build more software that changes what is possible.
 
 </td>
 
-<td width="42%" align="center">
+<td width="45%" valign="top">
 
-<img src="./art/research-orbit.gif" width="360" alt="Animated research orbit">
-
-<br>
-
-<sub>RESEARCH SPACE / 2026</sub>
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-<img src="./art/hairline.gif" width="900">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./art/section-02.svg" width="900">
-
-</div>
-
-<br>
-
-# 01
-
-<table>
-<tr>
-
-<td width="52%" valign="middle">
-
-<img src="./art/lattice-animation.gif" width="100%" alt="Animated lattice geometry">
+```text
+┌──────────────────────────────┐
+│        SYSTEM STATUS         │
+├──────────────────────────────┤
+│                              │
+│  ENGINEERING       ACTIVE    │
+│  SOFTWARE          ACTIVE    │
+│  ARTIFICIAL AI     ACTIVE    │
+│  MATHEMATICS       ACTIVE    │
+│  RESEARCH          ACTIVE    │
+│                              │
+│  STATUS: BUILDING            │
+│                              │
+└──────────────────────────────┘
+```
 
 </td>
-
-<td width="48%" valign="top">
-
-## CRYPTOGRAPHIC ANALYSIS
-
-### OF POST-QUANTUM LATTICE SCHEMES
-
-**A Module-LWE and Module-SIS Perspective**
-
-<br>
-
-`PREPRINT · 2026`
-
-<br>
-
-A structured analysis of lattice-based cryptographic constructions,
-with emphasis on **Module-LWE**, **Module-SIS**, reductionist security,
-Gaussian measures, smoothing, concrete attack costs, and parameter
-selection.
-
-<br>
-
-The computational component develops a reproducible workflow for
-estimating attack costs and examining scaling behavior.
-
-<br>
-
-**FIELD**
-
-`POST-QUANTUM CRYPTOGRAPHY`
-
-<br>
-
-**OBJECTS**
-
-`MODULE-LWE` · `MODULE-SIS` · `LATTICES`
-
-<br>
-
-[ **READ RESEARCH →** ](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mahran%2C%20Muhammad%22)
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-<img src="./art/lattice-spectrum.svg" width="800">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./art/section-03.svg" width="900">
-
-</div>
-
-<br>
-
-# 02
-
-<table>
-<tr>
-
-<td width="48%" valign="top">
-
-## LOCAL DIVISOR OBSTRUCTIONS
-
-### AND COMPLEMENTARY PARAMETRIC CONSTRUCTIONS
-
-**FOR THE ERDŐS–STRAUS EQUATION**
-
-<br>
-
-`PREPRINT · 2026`
-
-<br>
-
-An exploratory computational and theoretical investigation of
-divisor-based constructions for the Erdős–Straus equation.
-
-The work derives a parametric family, reduces solvability to a
-divisor-residue condition, and develops a **Local Valuation Theorem**
-describing the prime-power components producing obstruction within
-the investigated construction.
-
-<br>
-
-A computational experiment studies the complementarity of construction
-families against an independently generated adversarial sample.
-
-<br>
-
-The work makes **no claim of resolving the full conjecture**.
-
-<br>
-
-[ **READ PREPRINT →** ](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mahran%2C%20Muhammad%22)
-
-</td>
-
-<td width="52%" align="center" valign="middle">
-
-<img src="./art/erdos-field.gif" width="440" alt="Animated Erdős-Straus residue field">
-
-<br><br>
-
-<img src="./art/divisor-spiral.gif" width="400" alt="Animated divisor visualization">
-
-</td>
-
 </tr>
 </table>
 
@@ -221,7 +83,7 @@ The work makes **no claim of resolving the full conjecture**.
 
 <div align="center">
 
-<img src="./art/residue-map.svg" width="900">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=4000&pause=1000&color=52525B&center=true&vCenter=true&width=700&lines=%2F%2F+There+is+always+another+layer+to+understand.;%2F%2F+The+interface+is+never+the+whole+system.;%2F%2F+Curiosity+is+an+engineering+tool." />
 
 </div>
 
@@ -229,15 +91,278 @@ The work makes **no claim of resolving the full conjecture**.
 
 <div align="center">
 
-<img src="./art/section-04.svg" width="900">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=02%20%E2%80%94%20THE%20LAB&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+```text
+                              ┌─────────────┐
+                              │   IDEAS     │
+                              └──────┬──────┘
+                                     │
+                         ┌───────────▼───────────┐
+                         │       RESEARCH        │
+                         └───────────┬───────────┘
+                                     │
+                ┌────────────────────┼────────────────────┐
+                │                    │                    │
+          ┌─────▼─────┐        ┌─────▼─────┐        ┌─────▼─────┐
+          │ MATHEMATICS│        │ SOFTWARE  │        │ ENGINEERING│
+          └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
+                │                    │                    │
+                └────────────────────┼────────────────────┘
+                                     │
+                              ┌──────▼──────┐
+                              │     AI      │
+                              └──────┬──────┘
+                                     │
+                              ┌──────▼──────┐
+                              │ REAL WORLD  │
+                              │   SYSTEMS   │
+                              └─────────────┘
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=300&color=71717A&center=true&vCenter=true&width=650&lines=%5B+RESEARCH+%5D+%E2%86%92+%5B+BUILD+%5D+%E2%86%92+%5B+BREAK+%5D+%E2%86%92+%5B+UNDERSTAND+%5D+%E2%86%92+%5B+REBUILD+%5D" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=03%20%E2%80%94%20CURRENT%20SYSTEMS&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `MADARIJ OS`
+
+**Arabic-first business infrastructure**
+
+An ambitious attempt to rethink business software for the Arabic-speaking
+market.
+
+```text
+ACCOUNTING
+INVOICING
+VAT / ZATCA
+PAYROLL
+CRM
+INVENTORY
+CONTRACTS
+REPORTING
+AI
+```
+
+`AI` `SAAS` `ERP` `GCC`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `IBER ACADEMY`
+
+**Language learning infrastructure**
+
+A structured language-learning environment focused on progression rather
+than isolated vocabulary.
+
+```text
+LESSONS
+VOCABULARY
+GRAMMAR
+EXERCISES
+SPACED REPETITION
+MASTERY
+```
+
+`EDTECH` `LANGUAGES` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `ODRUS — ادرس`
+
+**Language education for Arabic speakers**
+
+A broader language-learning concept spanning alphabet, phonetics,
+grammar, writing, comprehension and advanced learning.
+
+`ARABIC` `EDTECH` `NLP`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `ABJADCODE`
+
+**Programming infrastructure for Arabic**
+
+Exploring what programming education and developer tooling could look
+like when designed around Arabic-first learners.
+
+`CS` `ARABIC` `EDUCATION`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2500&pause=500&color=71717A&center=true&vCenter=true&width=650&lines=SCANNING+PROJECT+SPACE...;4+PRIMARY+SYSTEMS+DETECTED.;ADDITIONAL+EXPERIMENTS+IN+PROGRESS...;NO+PROJECT+IS+EVER+REALLY+FINISHED." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=04%20%E2%80%94%20TECHNOLOGY&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
 
 <br><br>
 
-<img src="./art/method.gif" width="850" alt="Animated research methodology">
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,javascript,typescript,php,matlab,html,css,sql&perline=6"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,wordpress,tailwind,postgres,mysql,supabase,docker,git,github&perline=6"/>
 
 </div>
 
 <br>
+
+<table align="center">
+<tr>
+<td align="center"><b>LANGUAGES</b><br><br>17+</td>
+<td align="center"><b>FRAMEWORKS</b><br><br>8+</td>
+<td align="center"><b>DATABASES</b><br><br>SQL / PostgreSQL</td>
+<td align="center"><b>INFRASTRUCTURE</b><br><br>Cloud / Git / Docker</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=400&color=71717A&center=true&vCenter=true&width=700&lines=C%2B%2B+%E2%80%A2+PYTHON+%E2%80%A2+JAVASCRIPT+%E2%80%A2+TYPESCRIPT+%E2%80%A2+PHP;REACT+%E2%80%A2+NEXT.JS+%E2%80%A2+NODE.JS+%E2%80%A2+LARAVEL;POSTGRESQL+%E2%80%A2+SUPABASE+%E2%80%A2+DOCKER+%E2%80%A2+VERCEL+%E2%80%A2+GIT;MATLAB+%E2%80%A2+C%23+%E2%80%A2+JAVA+%E2%80%A2+SQL+%E2%80%A2+HTML+%E2%80%A2+CSS" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=05%20%E2%80%94%20AI%20WORKFLOW&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+```text
+          ┌──────────┐
+          │   IDEA   │
+          └────┬─────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   QUESTION   │
+        └──────┬───────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │  FIRST PRINCIPLE│
+      │    ANALYSIS     │
+      └────────┬────────┘
+               │
+               ▼
+       ┌───────────────┐
+       │ AI + HUMAN    │
+       │ COLLABORATION │
+       └───────┬───────┘
+               │
+               ▼
+        ┌────────────┐
+        │ PROTOTYPE  │
+        └──────┬─────┘
+               │
+               ▼
+        ┌────────────┐
+        │   ATTACK   │
+        └──────┬─────┘
+               │
+               ▼
+        ┌────────────┐
+        │   SHIP     │
+        └────────────┘
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+`GOOGLE AI STUDIO` · `CLAUDE` · `OPENAI` · `ANTIGRAVITY`
+· `SUPABASE` · `VERCEL` · `GIT`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=06%20%E2%80%94%20RESEARCH&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
+
+### Mathematics
+
+My mathematical interests extend beyond coursework into independent
+problem solving and experimentation.
+
+```text
+NUMBER THEORY
+     │
+     ├── CONGRUENCES
+     ├── PARAMETRIC FAMILIES
+     ├── DIOPHANTINE EQUATIONS
+     ├── COMPUTATIONAL EXPERIMENTATION
+     └── STRUCTURAL PROOFS
+```
+
+One recurring direction is the search for **structure behind computational
+patterns**, rather than treating computation as a substitute for proof.
+
+### Broader intellectual interests
+
+`Mathematics` · `Physics` · `Computer Science` · `Economics`
+· `Artificial Intelligence` · `Engineering` · `Logic` · `Languages`
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=71717A&center=true&vCenter=true&width=700&lines=LEARNING+IS+NOT+A+CHECKLIST.;EVERY+ANSWER+CREATES+A+BETTER+QUESTION." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=07%20%E2%80%94%20ENGINEERING%20MINDSET&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
+
+</div>
 
 <table align="center">
 <tr>
@@ -247,45 +372,47 @@ The work makes **no claim of resolving the full conjecture**.
 
 **QUESTION**
 
-</td>
+Challenge the assumption.
 
-<td align="center">→</td>
+</td>
 
 <td align="center" width="20%">
 
 ### 02
 
-**REDUCE**
+**UNDERSTAND**
+
+Find the underlying system.
 
 </td>
-
-<td align="center">→</td>
 
 <td align="center" width="20%">
 
 ### 03
 
-**CONSTRUCT**
+**BUILD**
+
+Turn the idea into reality.
 
 </td>
-
-<td align="center">→</td>
 
 <td align="center" width="20%">
 
 ### 04
 
-**TEST**
+**BREAK**
+
+Find what doesn't work.
 
 </td>
-
-<td align="center">→</td>
 
 <td align="center" width="20%">
 
 ### 05
 
-**PROVE**
+**REBUILD**
+
+Make the system better.
 
 </td>
 </tr>
@@ -293,178 +420,85 @@ The work makes **no claim of resolving the full conjecture**.
 
 <br>
 
-<div align="center">
+```python
+while alive:
 
-<img src="./art/process-grid.svg" width="900">
+    question = find_something_interesting()
 
-</div>
+    study(question)
 
----
+    build(question)
 
-<div align="center">
+    test(question)
 
-<img src="./art/section-05.svg" width="900">
+    if wrong:
+        learn()
 
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<img src="./art/number-theory.gif" width="250">
-
-<br><br>
-
-### NUMBER THEORY
-
-`DIVISORS`
-
-`CONGRUENCES`
-
-`LOCAL OBSTRUCTIONS`
-
-`PARAMETRIC FAMILIES`
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="./art/cryptography.gif" width="250">
-
-<br><br>
-
-### CRYPTOGRAPHY
-
-`LATTICES`
-
-`MODULE-LWE`
-
-`MODULE-SIS`
-
-`SECURITY`
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="./art/computation.gif" width="250">
-
-<br><br>
-
-### COMPUTATION
-
-`EXPERIMENT`
-
-`ESTIMATE`
-
-`VISUALIZE`
-
-`REPRODUCE`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="./art/section-06.svg" width="900">
-
-<br><br>
-
-<img src="./art/research-console.gif" width="850" alt="Animated research console">
-
-</div>
-
-<br>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   MAHRAN / RESEARCH NODE                                    │
-│                                                              │
-│   ────────────────────────────────────────────────────────   │
-│                                                              │
-│   DOMAIN        NUMBER THEORY / CRYPTOGRAPHY                 │
-│                                                              │
-│   ACTIVE        ERDŐS–STRAUS                                │
-│                 MODULE-LWE / MODULE-SIS                      │
-│                                                              │
-│   METHOD        FORMALIZATION → COMPUTATION → TESTING        │
-│                                                              │
-│   STATUS        INVESTIGATING                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+    repeat()
 ```
 
 ---
 
 <div align="center">
 
-<img src="./art/section-07.svg" width="900">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=08%20%E2%80%94%20ACTIVITY&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
 
 <br><br>
 
-<img src="./art/archive-animation.gif" width="850" alt="Animated research archive">
+<img
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4F4F5&text_color=A1A1AA&icon_color=F4F4F5&include_all_commits=true&count_private=true"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=F4F4F5&fire=FFFFFF&currStreakLabel=F4F4F5&sideLabels=A1A1AA&dates=52525B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=A1A1AA&line=71717A&point=F4F4F5&area=true&hide_border=true"
+/>
 
 </div>
-
-<br>
-
-### THE ARCHIVE
-
-The repository is not intended to be a catalogue of every technology
-I have touched.
-
-It is an archive of things worth keeping.
-
-<br>
-
-`RESEARCH`
-
-`CODE`
-
-`EXPERIMENTS`
-
-`NOTES`
-
-`DATA`
-
-`VISUALIZATIONS`
 
 ---
 
 <div align="center">
 
-<img src="./art/closing-quote.svg" width="780">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=09%20%E2%80%94%20CONNECT&fontSize=18&fontColor=A1A1AA&animation=fadeIn"/>
 
 <br><br>
 
-<img src="./art/footer.gif" width="900">
+<a href="https://www.linkedin.com/in/moemahran/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0D10?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0D10"/>
+</a>
+
+  
+
+<a href="https://buspreneur.substack.com/">
+<img src="https://img.shields.io/badge/BUSPreneUR-0B0D10?style=for-the-badge&logo=substack&logoColor=FFFFFF&labelColor=0B0D10"/>
+</a>
+
+  
+
+<a href="https://iberacademy.vercel.app/">
+<img src="https://img.shields.io/badge/IBER%20ACADEMY-0B0D10?style=for-the-badge&logoColor=FFFFFF&labelColor=0B0D10"/>
+</a>
 
 <br><br>
 
-### MUHAMMAD MAHRAN
-
-`INDEPENDENT RESEARCHER`
+### **I'm interested in difficult problems, unusual ideas, and ambitious systems.**
 
 <br>
 
-**Mathematical structure · computational investigation · cryptography**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=900&color=71717A&center=true&vCenter=true&width=650&lines=OPEN+TO+INTERESTING+COLLABORATIONS.;BUILD+SOMETHING+WORTH+REMEMBERING.;THE+NEXT+SYSTEM+STARTS+WITH+AN+IDEA." />
 
 <br><br>
 
-[ LINKEDIN ](https://www.linkedin.com/in/moemahran/)
-  ·  
-[ ZENODO ](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Mahran%2C%20Muhammad%22)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:27272A,50:18181B,100:09090B"/>
 
-<br><br>
-
-<sub>2026 / RESEARCH ARCHIVE</sub>
+<sub>© Muhammad Mahran · Engineering ideas into systems.</sub>
 
 </div>
